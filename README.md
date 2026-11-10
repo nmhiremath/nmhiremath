@@ -12,4 +12,4 @@ Python, FastAPI, distributed systems, LangGraph, search and data platforms.
 
 ### 🔗 Contact
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+[LinkedIn](https://www.linkedin.com/in/nmhiremath)
