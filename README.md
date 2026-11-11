@@ -11,7 +11,7 @@ Since 2026 I've been applying the same habits to agentic AI. I get a working loo
 ### 🎙️ Featured project
 
 **[PodSeek](https://github.com/nmhiremath/PodSeek)**: Corrective RAG over long-form podcast transcripts. It grades its own retrieval, rewrites weak queries (with a retry ceiling so it can't loop forever), and answers with clickable YouTube timestamps. When the transcripts don't support an answer, it says so instead of making one up.
-→ [Live demo](https://podseek.onrender.com/) (free tier, so give it ~30s to wake up)
+→ [Live demo](https://podseek.onrender.com/?utm_source=github-profile) (free tier, so give it ~30s to wake up)
 
 ### 🧰 Stack
 
